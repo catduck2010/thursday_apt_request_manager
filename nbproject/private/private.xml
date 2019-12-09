@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/lihangzhou/Documents/AED/Thursday/Thursday_Final/src/com/thursday/business/UserDirectory.java</file>
+            <file>file:/Users/lihangzhou/Documents/AED/Thursday/Thursday_Final/src/com/thursday/interfaces/cleaningcomp/AssignCleaningTaskJPanel.java</file>
+            <file>file:/Users/lihangzhou/Documents/AED/Thursday/Thursday_Final/src/com/thursday/interfaces/AdminManageStaffJPanel.java</file>
+            <file>file:/Users/lihangzhou/Documents/AED/Thursday/Thursday_Final/src/com/thursday/business/Company.java</file>
+            <file>file:/Users/lihangzhou/Documents/AED/Thursday/Thursday_Final/src/com/thursday/business/identities/ApartmentUser.java</file>
+            <file>file:/Users/lihangzhou/Documents/AED/Thursday/Thursday_Final/src/com/thursday/util/db/TaskBiz.java</file>
+            <file>file:/Users/lihangzhou/Documents/AED/Thursday/Thursday_Final/src/com/thursday/interfaces/apartment/AssignRepairTaskJPanel.java</file>
+            <file>file:/Users/lihangzhou/Documents/AED/Thursday/Thursday_Final/src/com/thursday/business/workflow/ViewTaskCompany.java</file>
+            <file>file:/Users/lihangzhou/Documents/AED/Thursday/Thursday_Final/src/com/thursday/business/identities/User.java</file>
+            <file>file:/Users/lihangzhou/Documents/AED/Thursday/Thursday_Final/src/com/thursday/business/CompanyDirectory.java</file>
+            <file>file:/Users/lihangzhou/Documents/AED/Thursday/Thursday_Final/src/com/thursday/interfaces/bar/CleanerBarJPanel.java</file>
+            <file>file:/Users/lihangzhou/Documents/AED/Thursday/Thursday_Final/src/com/thursday/interfaces/bar/AdminBarJPanel.java</file>
+            <file>file:/Users/lihangzhou/Documents/AED/Thursday/Thursday_Final/src/com/thursday/interfaces/CreateCompJPanel.java</file>
+            <file>file:/Users/lihangzhou/Documents/AED/Thursday/Thursday_Final/src/com/thursday/util/db/CompanyBiz.java</file>
+            <file>file:/Users/lihangzhou/Documents/AED/Thursday/Thursday_Final/src/com/thursday/interfaces/apartment/ManageTaskJPanel.java</file>
+            <file>file:/Users/lihangzhou/Documents/AED/Thursday/Thursday_Final/src/com/thursday/business/WorkFlow.java</file>
+            <file>file:/Users/lihangzhou/Documents/AED/Thursday/Thursday_Final/src/com/thursday/business/identities/CleaningCompUser.java</file>
+            <file>file:/Users/lihangzhou/Documents/AED/Thursday/Thursday_Final/src/com/thursday/interfaces/cleaningcomp/CleaningAdminJPanel.java</file>
+            <file>file:/Users/lihangzhou/Documents/AED/Thursday/Thursday_Final/src/com/thursday/interfaces/bar/RepairBarJPanel.java</file>
+            <file>file:/Users/lihangzhou/Documents/AED/Thursday/Thursday_Final/src/com/thursday/util/db/AbstractDao.java</file>
+            <file>file:/Users/lihangzhou/Documents/AED/Thursday/Thursday_Final/src/com/thursday/interfaces/LoginJPanel.java</file>
+            <file>file:/Users/lihangzhou/Documents/AED/Thursday/Thursday_Final/src/com/thursday/util/DirectSQL.java</file>
+            <file>file:/Users/lihangzhou/Documents/AED/Thursday/Thursday_Final/src/com/thursday/util/db/Dao.java</file>
+            <file>file:/Users/lihangzhou/Documents/AED/Thursday/Thursday_Final/src/com/thursday/util/db/DBInfo.java</file>
+            <file>file:/Users/lihangzhou/Documents/AED/Thursday/Thursday_Final/src/com/thursday/interfaces/ManageAccountPanel.java</file>
+            <file>file:/Users/lihangzhou/Documents/AED/Thursday/Thursday_Final/src/com/thursday/business/EcoSystem.java</file>
+            <file>file:/Users/lihangzhou/Documents/AED/Thursday/Thursday_Final/src/com/thursday/interfaces/apartment/TenementTaskJPanel.java</file>
+            <file>file:/Users/lihangzhou/Documents/AED/Thursday/Thursday_Final/src/com/thursday/interfaces/AddStaffJPanel.java</file>
+            <file>file:/Users/lihangzhou/Documents/AED/Thursday/Thursday_Final/src/com/thursday/interfaces/apartment/ManageMyRequestsJPanel.java</file>
+            <file>file:/Users/lihangzhou/Documents/AED/Thursday/Thursday_Final/src/com/thursday/util/db/UserBiz.java</file>
+            <file>file:/Users/lihangzhou/Documents/AED/Thursday/Thursday_Final/src/com/thursday/interfaces/MainFrame.java</file>
+            <file>file:/Users/lihangzhou/Documents/AED/Thursday/Thursday_Final/src/com/thursday/interfaces/bar/HRBarJPanel.java</file>
+            <file>file:/Users/lihangzhou/Documents/AED/Thursday/Thursday_Final/src/com/thursday/util/db/WorkRequestBiz.java</file>
+            <file>file:/Users/lihangzhou/Documents/AED/Thursday/Thursday_Final/src/com/thursday/interfaces/cleaningcomp/CleanerManageRequestJPanel.java</file>
+            <file>file:/Users/lihangzhou/Documents/AED/Thursday/Thursday_Final/src/com/thursday/business/workflow/WorkRequest.java</file>
+            <file>file:/Users/lihangzhou/Documents/AED/Thursday/Thursday_Final/src/com/thursday/interfaces/RootJPanel.java</file>
+            <file>file:/Users/lihangzhou/Documents/AED/Thursday/Thursday_Final/src/com/thursday/interfaces/bar/TenementBarJPanel.java</file>
+            <file>file:/Users/lihangzhou/Documents/AED/Thursday/Thursday_Final/src/com/thursday/interfaces/apartment/RepairManManageRequestJPanel.java</file>
+        </group>
+    </open-files>
+</project-private>
